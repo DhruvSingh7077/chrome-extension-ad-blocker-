@@ -1,1 +1,1 @@
-# chrome-extension-ad-blocker-
+# chrome-extension-
